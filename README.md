@@ -5,5 +5,5 @@ Here we use the pokemon dataset provided from http://serebii.net/, it includes i
 
 Packages used: pandas, numpy, matplotlib and seaborn
 
-for viewing the project you have to open the "Pokemon-EDA" file!
+for viewing the project you have to open the "Pokemon" file!
 
